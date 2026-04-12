@@ -8,7 +8,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/mytv-android/mytv-android)
 ![GitHub all releases](https://img.shields.io/github/downloads/mytv-android/mytv-android/total)
-[![Android Sdk Require](https://img.shields.io/badge/Android-5.0%2B-informational?logo=android)](https://apilevels.com/#:~:text=Jetpack%20Compose%20requires%20a%20minSdk%20of%2021%20or%20higher)
+[![Android Sdk Require](https://img.shields.io/badge/Android-6.0%2B-informational?logo=android)](https://apilevels.com/#:~:text=Jetpack%20Compose%20requires%20a%20minSdk%20of%2023%20or%20higher)
 [![GitHub](https://img.shields.io/github/license/mytv-android/mytv-android)](https://github.com/mytv-android/mytv-android)
 
 </div>
